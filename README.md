@@ -13,7 +13,7 @@ Building your robot manipulator
 
 ```shell
 cd ~/ros2_ws
-git clone https://github.com/vincip99/RoboticsLabHW1.git
+git clone https://github.com/danieffe/4-degrees-of-freedom-robotic-manipulator-arm.git
 rosdep install --ignore-src --from-paths . -y -r
 colcon build --cmake-args -DCMAKE_BUILD_TYPE=Release --symlink-install
 source install/setup.bash
