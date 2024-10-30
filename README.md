@@ -1,7 +1,5 @@
-# RoboticsLabHW1 #
+# Building your robot manipulator #
 [![Licence](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-
-Building your robot manipulator
 
 ## Available Packages in this Repository ##
 - `arm_description` - robot description and configuration files
